@@ -26,4 +26,8 @@ Currently using this list of Dwarven Vows, and it picks a random one to say from
 		Dwarven Vow #108: Let sleeping dogs lie.
 		Dwarven Vow #134: Compassion benefits all men.
 
+NOTE:
+Dwarven #7 has two versions because the top one is a battle quote and the bottom one is a story quote.
+Dwarven #41 has two versions because the top one is from Tales of Symphonia and the bottom one is from Tales of the World: Radiant Mythology.
+
 I would like to add more functionality in the future, and make some optimizations.
